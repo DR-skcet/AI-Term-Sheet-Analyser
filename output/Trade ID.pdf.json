@@ -1,0 +1,13 @@
+{
+  "status": "Valid",
+  "errors": [],
+  "validated_data": {
+    "Trade ID": "TRD-45678",
+    "Date": "2025-05-20",
+    "Party A": "Alpha Investments Ltd.",
+    "Party B": "Beta Holdings Inc.",
+    "Instrument": "Bond",
+    "Amount": "5,000,000",
+    "Maturity Date": "2026-06-15"
+  }
+}
